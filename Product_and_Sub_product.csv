@@ -1,0 +1,98 @@
+Product,Sub-product,Count,Prod
+Bank account or service,Checking account,59045,Bank account or service - checking account
+Bank account or service,Other bank product/service,17825,Bank account or service - other
+Bank account or service,Savings account,5294,Bank account or service - other
+Bank account or service,(CD) Certificate of deposit,3417,Bank account or service - other
+Bank account or service,Cashing a check without an account,625,Bank account or service - other
+Checking or savings account,Checking account,3757,Bank account or service - other
+Checking or savings account,Other banking product or service,786,Bank account or service - other
+Checking or savings account,Savings account,291,Bank account or service - other
+Checking or savings account,CD (Certificate of Deposit),139,Bank account or service - other
+Checking or savings account,Personal line of credit,2,Bank account or service - other
+Consumer Loan,Vehicle loan,17780,Consumer loan - vehicle loan
+Consumer Loan,Installment loan,8704,Consumer loan - other
+Consumer Loan,Vehicle lease,2657,Consumer loan - other
+Consumer Loan,Personal line of credit,1824,Consumer loan - other
+Consumer Loan,Title loan,548,Consumer loan - other
+Consumer Loan,Pawn loan,94,Consumer loan - other
+Credit card,xxxxx,89187,Credit card or prepaid card
+Credit card or prepaid card,General-purpose credit card or charge card,4547,Credit card or prepaid card
+Credit card or prepaid card,Store credit card,981,Credit card or prepaid card
+Credit card or prepaid card,General-purpose prepaid card,229,Credit card or prepaid card
+Credit card or prepaid card,Government benefit card,77,Credit card or prepaid card
+Credit card or prepaid card,Gift card,31,Credit card or prepaid card
+Credit card or prepaid card,Payroll card,19,Credit card or prepaid card
+Credit reporting,xxxxx,140418,Credit reporting
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,23291,Credit reporting
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,398,Credit reporting
+"Credit reporting, credit repair services, or other personal consumer reports",Credit repair services,82,Credit reporting
+Debt collection,"Other (i.e. phone, health club, etc.)",44553,Debt collection - other
+Debt collection,I do not know,32284,Debt collection - other
+Debt collection,Credit card,28704,Debt collection - credit card
+Debt collection,Medical,21209,Debt collection - medical
+Debt collection,Payday loan,7577,Debt collection - other
+Debt collection,Mortgage,4807,Debt collection - other
+Debt collection,Other debt,4227,Debt collection - other
+Debt collection,Auto,3755,Debt collection - other
+Debt collection,Non-federal student loan,2883,Debt collection - other
+Debt collection,Federal student loan,2476,Debt collection - other
+Debt collection,Credit card debt,2330,Debt collection - other
+Debt collection,Medical debt,2232,Debt collection - other
+Debt collection,Payday loan debt,461,Debt collection - other
+Debt collection,Mortgage debt,414,Debt collection - other
+Debt collection,Auto debt,408,Debt collection - other
+Debt collection,Federal student loan debt,242,Debt collection - other
+Debt collection,Private student loan debt,215,Debt collection - other
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,310,Money transfers
+"Money transfer, virtual currency, or money service",International money transfer,233,Money transfers
+"Money transfer, virtual currency, or money service",Virtual currency,229,Money transfers
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,201,Money transfers
+"Money transfer, virtual currency, or money service",Traveler's check or cashier's check,38,Money transfers
+"Money transfer, virtual currency, or money service",Debt settlement,30,Money transfers
+"Money transfer, virtual currency, or money service",Check cashing service,28,Money transfers
+"Money transfer, virtual currency, or money service",Money order,20,Money transfers
+"Money transfer, virtual currency, or money service",Foreign currency exchange,15,Money transfers
+"Money transfer, virtual currency, or money service",Refund anticipation check,10,Money transfers
+Money transfers,International money transfer,2769,Money transfers
+Money transfers,Domestic (US) money transfer,2584,Money transfers
+Mortgage,Other mortgage,86627,Mortgage - other
+Mortgage,Conventional fixed mortgage,70613,Mortgage - conventional fixed mortgage
+Mortgage,FHA mortgage,25659,Mortgage - FHA mortgage
+Mortgage,Conventional adjustable mortgage (ARM),25381,Mortgage - conventional adjustable mortgage (ARM)
+Mortgage,Home equity loan or line of credit,11626,Mortgage - home equity loan or line of credit
+Mortgage,VA mortgage,5487,Mortgage - other
+Mortgage,Conventional home mortgage,4078,Mortgage - other
+Mortgage,Reverse mortgage,2228,Mortgage - other
+Mortgage,Other type of mortgage,1747,Mortgage - other
+Mortgage,Second mortgage,662,Mortgage - other
+Mortgage,Home equity loan or line of credit (HELOC),501,Mortgage - other
+Other financial service,Debt settlement,330,Other financial service
+Other financial service,Check cashing,265,Other financial service
+Other financial service,Money order,144,Other financial service
+Other financial service,Credit repair,101,Other financial service
+Other financial service,Traveler’s/Cashier’s checks,88,Other financial service
+Other financial service,Refund anticipation check,68,Other financial service
+Other financial service,Foreign currency exchange,58,Other financial service
+Payday loan,xxxxx,5546,"Payday loan, title loan, or personal loan"
+"Payday loan, title loan, or personal loan",Installment loan,389,"Payday loan, title loan, or personal loan"
+"Payday loan, title loan, or personal loan",Payday loan,330,"Payday loan, title loan, or personal loan"
+"Payday loan, title loan, or personal loan",Personal line of credit,219,"Payday loan, title loan, or personal loan"
+"Payday loan, title loan, or personal loan",Title loan,97,"Payday loan, title loan, or personal loan"
+"Payday loan, title loan, or personal loan",Pawn loan,3,"Payday loan, title loan, or personal loan"
+Prepaid card,General purpose card,1751,Credit card or prepaid card
+Prepaid card,Mobile wallet,418,Credit card or prepaid card
+Prepaid card,Payroll card,411,Credit card or prepaid card
+Prepaid card,Gift or merchant card,402,Credit card or prepaid card
+Prepaid card,Government benefit payment card,389,Credit card or prepaid card
+Prepaid card,ID prepaid card,207,Credit card or prepaid card
+Prepaid card,Other special purpose card,190,Credit card or prepaid card
+Prepaid card,Transit card,37,Credit card or prepaid card
+Prepaid card,Electronic Benefit Transfer / EBT card,12,Credit card or prepaid card
+Student loan,Non-federal student loan,22279,Student loan - non-federal student loan
+Student loan,Federal student loan servicing,12083,Student loan - federal student loan servicing
+Student loan,Private student loan,1292,Student loan - other
+Vehicle loan or lease,Loan,1164,Other financial service
+Vehicle loan or lease,Lease,203,Other financial service
+Vehicle loan or lease,Title loan,1,Other financial service
+Virtual currency,Domestic (US) money transfer,17,Other financial service
+Virtual currency,International money transfer,1,Other financial service
